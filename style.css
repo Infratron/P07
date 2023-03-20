@@ -1,0 +1,11 @@
+:root{
+    --sky-blue:#8ecae6;
+    --blue-green:#219EBC;
+
+}
+
+
+
+.nav-custom-mio {
+    background-color: var(--sky-blue);
+}
