@@ -7,5 +7,32 @@
 
 
 .nav-custom-mio {
-    background-color: var(--sky-blue);
+    background-color: var(--blue-green);
+
+}
+
+.text-color{
+    color: white;
+}
+
+.ciao{
+    background-color: white;
+}
+
+.scatola {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.Main-bg-custom
+{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.card{
+    width: 18rem;
+    margin-top: 15px;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
