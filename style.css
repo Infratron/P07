@@ -36,3 +36,20 @@
     margin-top: 15px;
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
+
+.foto {
+    width: 22rem;
+}
+
+.fotina {
+    width: 26rem;
+}
+
+.linea {
+    border: 2px solid rgb(12, 238, 148);
+}
+
+
+.titolo {
+    font-family: 'Anton', sans-serif;
+}
